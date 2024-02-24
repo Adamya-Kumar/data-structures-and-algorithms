@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "array": "cpp",
+        "vector": "cpp",
+        "type_traits": "cpp"
+    },
+    "liveServer.settings.port": 5501
+}
