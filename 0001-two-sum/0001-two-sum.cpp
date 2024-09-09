@@ -1,3 +1,5 @@
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -13,3 +15,13 @@ public:
         return {-1, -1};
     }
 };
+int main(){
+    Solution obj;
+    vector<int> nums;
+    int target=3;
+    vector<int> ans=obj.twoSum(nums,target);
+    for(auto it:ans){
+        cout<<it<<" ";
+    }
+    return 0;
+}
