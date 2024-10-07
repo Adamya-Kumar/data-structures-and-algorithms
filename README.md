@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0145-binary-tree-postorder-traversal) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
