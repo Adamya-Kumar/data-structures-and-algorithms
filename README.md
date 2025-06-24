@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -91,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
