@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
