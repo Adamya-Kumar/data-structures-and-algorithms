@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
