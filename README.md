@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 ## Geometry
 |  |
@@ -108,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
