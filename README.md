@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0485-max-consecutive-ones) |
+| [0792-binary-search](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0792-binary-search) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
+| [0792-binary-search](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0792-binary-search) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
