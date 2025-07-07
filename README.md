@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
+| [2050-count-good-numbers](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2050-count-good-numbers) |
 ## Geometry
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2050-count-good-numbers) |
 ## String
 |  |
 | ------- |
