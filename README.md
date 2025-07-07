@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+## String
+|  |
+| ------- |
+| [0008-string-to-integer-atoi](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0008-string-to-integer-atoi) |
 <!---LeetCode Topics End-->
