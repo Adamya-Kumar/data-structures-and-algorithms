@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0046-permutations) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
