@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Stack
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 ## Binary Search
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 ## Backtracking
 |  |
 | ------- |
