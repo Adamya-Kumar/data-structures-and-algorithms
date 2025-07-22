@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0792-binary-search) |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -145,4 +149,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0011-container-with-most-water) |
+## Merge Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
 <!---LeetCode Topics End-->
