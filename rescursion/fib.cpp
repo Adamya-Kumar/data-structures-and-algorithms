@@ -1,21 +1,17 @@
 #include <iostream>
 using namespace std;
 int fib(int n){
+    if(n<=1){
+    cout<<n<<endl;
+    return n;
+    }
+  
  
+int ans= fib(n-1)+fib(n-2);
 
-    if(n==0){
-        return 0;
-    }
-    if( n==1){
-        return 1; 
-    }
-    int ans = fib(n-1)+ fib(n-2);
-    return ans; 
+return ans; 
 }
 int main(){
-    int n;
-    cin>>n;
-   int ans = fib(n);
-//    cout<<ans<<endl;
+   cout<<"sum:" <<fib(7)<<" ";
 return 0;
 }
