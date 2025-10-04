@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0416-partition-equal-subset-sum) |
+| [1250-longest-common-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1250-longest-common-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0049-group-anagrams) |
+| [1250-longest-common-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1250-longest-common-subsequence) |
 ## Backtracking
 |  |
 | ------- |
