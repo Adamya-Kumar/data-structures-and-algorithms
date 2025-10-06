@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0416-partition-equal-subset-sum) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
@@ -206,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-find-the-town-judge](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1039-find-the-town-judge) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
