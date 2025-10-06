@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1642-water-bottles) |
 | [2050-count-good-numbers](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3336-water-bottles-ii](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
 ## Geometry
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1642-water-bottles](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1642-water-bottles) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3336-water-bottles-ii](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
