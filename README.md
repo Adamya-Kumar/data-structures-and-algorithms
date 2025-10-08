@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -94,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0217-contains-duplicate) |
 | [0948-sort-an-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0948-sort-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0792-binary-search](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0792-binary-search) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Binary Search Tree
 |  |
 | ------- |
