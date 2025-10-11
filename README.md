@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1250-longest-common-subsequence) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 ## Sorting
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
 | [1395-minimum-time-visiting-all-points](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1395-minimum-time-visiting-all-points) |
 | [1642-water-bottles](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1642-water-bottles) |
+| [2031-egg-drop-with-2-eggs-and-n-floors](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2031-egg-drop-with-2-eggs-and-n-floors) |
 | [2050-count-good-numbers](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2050-count-good-numbers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3336-water-bottles-ii](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/3336-water-bottles-ii) |
