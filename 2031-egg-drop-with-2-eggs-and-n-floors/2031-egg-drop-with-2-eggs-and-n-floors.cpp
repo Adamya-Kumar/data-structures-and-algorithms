@@ -13,8 +13,20 @@ int t[1001][1001];
         }
 
         int mini = INT_MAX;
+        int left=0;
+        int right=0;
         for(int k=1;k<=f;k++){
-            int temp = 1 + max( solve(e-1,k-1), solve(e,f-k));
+            if(t[e-1][k-1]!=-1){
+                left = t[e-1][k-1];
+            }else{
+              left = solve(e-1,k-1);
+            }
+            if(t[e][f-k]!=-1){
+                right = t[e][f-k];
+            }else{
+                right = solve(e,f-k);
+            }
+            int temp = 1 + max( left, right);
         mini = min(mini,temp);
         }
         return t[e][f] = mini;
