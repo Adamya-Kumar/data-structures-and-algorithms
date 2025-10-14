@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0416-partition-equal-subset-sum) |
 | [1250-longest-common-subsequence](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/1250-longest-common-subsequence) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0338-counting-bits) |
 ## Recursion
 |  |
 | ------- |
