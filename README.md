@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0189-rotate-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0070-climbing-stairs) |
 | [0087-scramble-string](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0087-scramble-string) |
 | [0118-pascals-triangle](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Adamya-Kumar/data-structures-and-algorithms/tree/master/0152-maximum-product-subarray) |
